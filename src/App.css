@@ -1690,13 +1690,13 @@ p {
 
 .gallery-image-outgoing.turn-out-next {
   transform-origin: right center;
-  animation: galleryPageOutNext 760ms
+  animation: galleryPageOutNext 900ms
     cubic-bezier(0.22, 0.68, 0, 1) both;
 }
 
 .gallery-image-incoming.turn-in-next {
   transform-origin: left center;
-  animation: galleryPageInNext 820ms
+  animation: galleryPageInNext 1000ms
     cubic-bezier(0.22, 0.68, 0, 1) both;
 }
 
@@ -1728,13 +1728,13 @@ p {
 
 .gallery-image-outgoing.turn-out-prev {
   transform-origin: left center;
-  animation: galleryPageOutPrev 760ms
+  animation: galleryPageOutPrev 900ms
     cubic-bezier(0.22, 0.68, 0, 1) both;
 }
 
 .gallery-image-incoming.turn-in-prev {
   transform-origin: right center;
-  animation: galleryPageInPrev 820ms
+  animation: galleryPageInPrev 1000ms
     cubic-bezier(0.22, 0.68, 0, 1) both;
 }
 
@@ -1770,12 +1770,12 @@ p {
 }
 
 .gallery-slide-copy.copy-next {
-  animation: galleryCopyNext 560ms
+  animation: galleryCopyNext 620ms
     cubic-bezier(0.22, 0.68, 0, 1) 140ms both;
 }
 
 .gallery-slide-copy.copy-prev {
-  animation: galleryCopyPrev 560ms
+  animation: galleryCopyPrev 620ms
     cubic-bezier(0.22, 0.68, 0, 1) 140ms both;
 }
 
